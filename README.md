@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 Requirements.txt: contains all the required libraries that you will need to run our project 
 
-### Install the Jupyter Extension (For VSCode users):
+## Install the Jupyter Extension (For VSCode users):
 Open VSCode, go to the Extensions view (Ctrl+Shift+X), and search for **Jupyter**.
 
 Install the "Jupyter" extension provided by Microsoft.
