@@ -1,0 +1,15 @@
+# requirements.txt
+
+# Core libraries
+numpy==1.24.3
+pandas==2.0.3
+
+# Visualization libraries
+matplotlib==3.7.1
+seaborn==0.13.0
+
+# Machine learning libraries
+scikit-learn==1.3.2
+
+# Yellowbrick for visualization tools
+yellowbrick==1.5
