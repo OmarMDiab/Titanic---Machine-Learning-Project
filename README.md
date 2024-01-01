@@ -40,7 +40,7 @@ Install the "Jupyter" extension provided by Microsoft.
 Now you can run the project ^^
 
 
-# Project by 
+# Authors 
 
 - [@Kerolos Noshy](https://github.com/Kerolos-Noshy)
 - [@Anas Zikry](https://github.com/anass-zikry)
